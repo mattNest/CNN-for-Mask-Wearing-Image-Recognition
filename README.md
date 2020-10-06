@@ -13,4 +13,4 @@ around 700 masks worn either wrongly or not worn at all.
 <br> Some samples of classification result:
 ![img](https://i.imgur.com/q7uqhkb.png)
 
-Please refer to the homework instruction, code, and report for more detailed information.
+#### Please refer to the homework instruction, code, and report for more detailed information.
