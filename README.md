@@ -1,4 +1,4 @@
-# Convolution-Neural-Network-for-Mask-Wearing-Image-Recognition
+# CNN-for-Mask-Wearing-Image-Recognition
 NCTU ECM Deep Learning Course Homework 1-2
 
 In this exercise, we construct a Convolutional Neural Network (CNN) for image recognition
